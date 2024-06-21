@@ -9,9 +9,13 @@ Color Selection: Select from Yellow, Red, or Green text colors to personalize yo
 Terminal Friendly: Works cross-platform with colored text support using colorama.
 User Interaction: Simple prompts guide users through text input and customization options.
 # Usage
-Clone the Repository: git clone https://github.com/zooxinirll/LH-Img/
+Clone the Repository: git clone https://github.com/zooxinirll/LH-Img
+
 Navigate to Directory: cd LH-Img
-Run the Script: Execute python main.py and follow the prompts to create your ASCII banner.
+
+Run the Script: Execute python main.py 
+
+follow the prompts to create your ASCII banner.
 
 # Requirements
 * Python 3.x
